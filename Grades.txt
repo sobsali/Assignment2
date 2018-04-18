@@ -7,4 +7,4 @@ Fu	55	90.5
 Garcia	99	90
 Hung	35	60
 Iona	60.75	60
-Johnson	65	40
+Johnson	65	40 
